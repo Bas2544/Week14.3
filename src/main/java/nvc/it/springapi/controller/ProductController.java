@@ -14,7 +14,7 @@ import nvc.it.springapi.model.Product;
 import nvc.it.springapi.service.ProductSevice;
 
 @RestController
-@RequestMapping("/product")
+@RequestMapping("/products")
 public class ProductController {
     
     @Autowired
